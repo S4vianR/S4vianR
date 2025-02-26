@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reuben Rhienhart</h1>
 <h3 align="center">I'm a systems engineering at ITCJ</h3>
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4vianr&label=Profile%20views&color=0e75b6&style=flat" alt="s4vianr" /> </p>
+--->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s4vianr" alt="s4vianr" /></a> </p>
 
