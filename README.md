@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s4vianr" alt="s4vianr" /></a> </p>
 
+<!---
 - 🤓 I’m currently working on my own archlinux package manager [savipkg](https://github.com/S4vianR/savipkg)
-
-- 💻 I’m currently learning **distro develompent**
+--->
+- 💻 I’m currently learning **distro development and fullstack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/S4vianR](https://github.com/S4vianR)
 
